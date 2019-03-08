@@ -10,5 +10,9 @@ package problemSolvingSkills;
  * @author silverbullet
  */
 public class test {
+    //main
+    public static void main(String[] args) {
+        
+    }
     
 }
