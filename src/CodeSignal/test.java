@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package problemSolvingSkills;
+package CodeSignal;
 
 import java.util.Arrays;
 
@@ -14,17 +14,10 @@ import java.util.Arrays;
 public class test {
     //main
     public static void main(String[] args) {
-        int[][] a = new int[3][];
-        int[] b = new int[]{1, 0, 2};
-        
-        for(int i = 0 ; i < a.length;i++){
-            a[i] = new int[b[i]];
-            for(int j = 0 ; j < b[i];j++){
-                a[i][j] = j;
-            }
-        }
-        
-        
+      int[] a = new int[4];
+      for(int i=  0 ; i < a.length ;i++){
+          StdOut.println(a[i]);
+      }
     }
     
 }

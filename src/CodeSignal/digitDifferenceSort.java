@@ -1,4 +1,4 @@
-package problemSolvingSkills;
+package CodeSignal;
 
 import java.util.Arrays;
 import java.util.Scanner;

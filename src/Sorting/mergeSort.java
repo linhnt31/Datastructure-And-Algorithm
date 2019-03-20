@@ -1,3 +1,5 @@
+package Sorting;
+
 
 import Sorting.StdOut;
 import static Sorting.selectionSort.implementSelectionSort;
@@ -7,6 +9,7 @@ import myArray.Array;
 /**
  *
  * @author Linh Nguyen Thanh
+ * 
  */
 public class mergeSort {
     //Function to merge two subarrays
@@ -59,7 +62,8 @@ public class mergeSort {
     
     
     //Function to implement merge sort
-    //Time complexity: O()
+    //Merge Sort is a Divide and Conquer algorithm
+    //Time complexity: O(nlogn)
     public static void implementMergeSort(int[] a, int left, int right){
         if(left <= right){
             int mid = (left + right) / 2;

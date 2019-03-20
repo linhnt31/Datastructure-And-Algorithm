@@ -1,4 +1,4 @@
-package problemSolvingSkills;
+package CodeSignal;
 
 /**
  *

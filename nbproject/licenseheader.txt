@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}DataStructure and Algorithm
+${licensePrefix}2019
+<#if licenseLast??>
+${licenseLast}
+</#if>

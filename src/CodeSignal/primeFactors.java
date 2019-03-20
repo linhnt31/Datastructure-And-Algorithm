@@ -1,4 +1,4 @@
-package problemSolvingSkills;
+package CodeSignal;
 
 import java.util.ArrayList;
 import java.util.Arrays;
